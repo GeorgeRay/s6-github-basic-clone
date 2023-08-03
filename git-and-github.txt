@@ -1,0 +1,6 @@
+Five things about GitHub.
+Github is a repository for Git projects
+Github can be used to share code
+Github can be used to collaborate on code
+Github can be used to track changes in code
+Github can be used to host code
