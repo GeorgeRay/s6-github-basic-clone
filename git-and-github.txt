@@ -1,0 +1,3 @@
+Push is a Git command
+Clone is a Git command.
+Merge is a Git command.
